@@ -64,6 +64,16 @@ Manages appointments and communicates with Patient Service and Doctor Service to
 * Swagger API Documentation
 * CRUD Operations for Patients, Doctors, and Appointments
 
+## Service Repositories
+
+- Service Registry
+   [https://github.com/saikrishna21-sk/serviceregistry]
+- API Gateway [https://github.com/saikrishna21-sk/apigateway]
+- Auth Service [https://github.com/saikrishna21-sk/AuthorizationService]
+- Patient Service [https://github.com/saikrishna21-sk/patientservice]
+- Doctor Service [https://github.com/saikrishna21-sk/doctorservice]
+- Appointment Service [https://github.com/saikrishna21-sk/appointmentservie]
+
 ## Running the Project
 ```bash
 docker compose up -d
